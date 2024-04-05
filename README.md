@@ -38,7 +38,7 @@ The script carries out the following steps:
 To run this script, simply source it in R:
 
 ```R
-source('path_to_script/script_name.R')
+source('path_to_script/script_name.R')```R
 ## Results
 
 After running the script, you will get:
