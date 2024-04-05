@@ -6,8 +6,9 @@ This repository contains an R script for performing a basic exploratory data ana
 
 Before running this script, you'll need to have R installed on your system. You can download and install R from [CRAN](https://cran.r-project.org/). Additionally, the script requires the `ggplot2` package for data visualization, which can be installed from within R using the following command:
 
-```R
-install.packages("ggplot2")```
+
+install.packages("ggplot2")
+
 ## Dataset
 The Iris dataset includes 150 instances of iris plants, each described by 4 features: sepal length, sepal width, petal length, and petal width. There are three species of iris in the dataset: Setosa, Versicolour, and Virginica.
 
